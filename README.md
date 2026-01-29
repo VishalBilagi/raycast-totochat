@@ -2,7 +2,10 @@
 
 A Raycast extension that brings GitHub Copilot's powerful AI capabilities directly to your fingertips through the Copilot CLI.
 
-<video src="assets/toto.mov"><video>
+
+
+<video src="https://github.com/user-attachments/assets/e4f16d5d-5273-45a7-8a13-160d2167c3c4"/>
+
 
 ## Features
 
