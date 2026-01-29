@@ -4,7 +4,7 @@ A Raycast extension that brings GitHub Copilot's powerful AI capabilities direct
 
 
 
-<video src="https://github.com/user-attachments/assets/e4f16d5d-5273-45a7-8a13-160d2167c3c4"/>
+<video src="https://github.com/user-attachments/assets/e4f16d5d-5273-45a7-8a13-160d2167c3c4"></video>
 
 
 ## Features
